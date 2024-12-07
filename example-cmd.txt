@@ -1,0 +1,30 @@
+const { Command } = require('../../structures/index.js');
+const { errorEmbed } = require('../../modules/embeds.js');
+const { EmbedBuilder } = require('discord.js');
+const { emojis, colors } = require('../../config.js');
+
+class Cmdname extends Command {
+    constructor(client) {
+        super(client, {
+            name: '',
+            description: {
+                content: '',
+                examples: [''],
+                usage: '',
+            },
+            category: '',
+            aliases: [],
+            cooldown: 3,
+            args: false,
+            permissions: {
+                dev: false,
+            },
+            slashCommand: true,
+            options: [],
+        });
+    }
+
+    async run(client, ctx) {}
+}
+
+module.exports = Cmdname;
