@@ -1,19 +1,19 @@
 module.exports = {
-    token: "MTE5MTY5MjcxMDc1MTUxODcyMA.GlMbgM.kQEzbcPqxCCzL6Ng72PezPiBg6tv-B9dzi6fak",
+    token: "",
     prefix: "-",
     colors: {
-        main: "#fbcb3d",
-        error: "#FF0000"
+        main: "#",
+        error: "#"
     },
-    owners: ["1067067297157632020"],
+    owners: [""],
     team: {
-        developer: 'glaxin1999',
+        developer: '',
         contributor: 'not set',
         special_thanks: 'not set'
     },
-    desc: "Introducing Rhyton, the ultimate Discord bot designed to elevate your server experience to new heights! Packed with an array of features, Rhyton is your go-to solution for seamless greet presets, invite manager, ticket system, advanced-giveaways, etc.",
+    desc: "Introducing, the ultimate Discord bot designed to elevate your server experience to new heights! Packed with an array of features, is your go-to solution for seamless greet presets, invite manager, ticket system, advanced-giveaways, etc.",
     mongodb: {
-        uri: "mongodb+srv://root:kalwar_995@rhyton-01.vqsdobz.mongodb.net/Bot",
+        uri: "",
         options: {
             useNewUrlParser: true,
             useUnifiedTopology: true,
@@ -23,11 +23,11 @@ module.exports = {
         connect: true,
     },
     links: {
-        botinvite: "https://discord.com/api/oauth2/authorize?client_id=1191692710751518720&permissions=8&scope=bot+applications.commands",
-        supportserver: "https://discord.gg/SSeamxumHes",
-        website: "https://www.rhytonbot.live/",
-        docs: "https://rhytonbot.live/docs",
-        banner: "https://cdn.discordapp.com/attachments/1176867217099472979/1190593121336180858/standard_4.gif?ex=65a25d40&is=658fe840&hm=7c5696c0bd6ec3c0f59b3bc06b9f888654881a4ac88e9866bc47e2ebffafe951&"
+        botinvite: "",
+        supportserver: "https",
+        website: "https://www..live/",
+        docs: "https://.live/docs",
+        banner: "https://cdn.discordapp.com/&"
     },
     supportServerId: "1176847463399821322",
     clientId: "1191692710751518720",
