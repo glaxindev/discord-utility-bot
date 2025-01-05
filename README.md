@@ -1,10 +1,5 @@
-<h1 align="center">
-  <br>
-  <a href="https://cdn.discordapp.com/avatars/1181257877713858742/a2acd9f4f7fe09dacfa3d8380b796966.webp?size=4096" height="200" alt="Rhyton"></a>
-  <br>
-  Rhyton
-  <br>
-</h1>
+# All-In-One Discord Bot
+The All-In-One Discord Bot, Discontinued in 2024.
+Made by realglaxin, in 2024.
 
-<p align="center">Your all-in-one bot for emote manager, ticket system, auto-mod and much more!</p>
-# old-bot-src
+NOTE: This is an unfinished project, meaning the idea was dropped before it was completed.
