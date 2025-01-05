@@ -1,5 +1,5 @@
 {
-  "name": "rhyton-bot",
+  "name": "allinone-bot",
   "version": "1.0.0",
   "description": "Your all-in-one bot for emote manager, ticket system, auto-mod and much more!",
   "main": "src/index.js",
@@ -8,22 +8,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/glaxinvro/rhyton-bot.git"
+    "url": ""
   },
   "keywords": [
-    "Rhyton",
+    "Bot",
     "Discord.js",
     "multi-purpose",
     "security",
     "moderation",
     "utility"
   ],
-  "author": "glaxin1999",
+  "author": "realglaxin",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/glaxinvro/rhyton-bot/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/glaxinvro/rhyton-bot#readme",
+  "homepage": "",
   "devDependencies": {
     "@types/signale": "^1.4.6",
     "nodemon": "^3.0.2"
